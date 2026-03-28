@@ -1,4 +1,4 @@
-# Synkio‑Tech
+# Synkio
 
 Open-source software and developer tooling from Synkio.
 
